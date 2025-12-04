@@ -4,32 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="271cdcde-66ea-4993-8756-445628ec120f" name="Changes" comment="" />
+    <list default="true" id="271cdcde-66ea-4993-8756-445628ec120f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/ResumeCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/ScoreCircle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/puter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/auth.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/puter.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/welcome.tsx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="36MmQadxgqbCbwMvaKJFAjYDwMW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "A:\\Projects\\ai-resume-analyzer\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -54,7 +83,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764824799440</updated>
-      <workItem from="1764824800578" duration="3372000" />
+      <workItem from="1764824800578" duration="4611000" />
+      <workItem from="1764830716980" duration="12279000" />
     </task>
     <servers />
   </component>
